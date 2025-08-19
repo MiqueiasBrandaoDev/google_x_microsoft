@@ -3,7 +3,7 @@
 
 ---
 
-## 🎯 Resumo Executivo
+## 🎯 Resumo
 
 Análise comparativa para migração de **Microsoft 365 Business Basic** para **Google Workspace Business Standard**, considerando 6 usuários ativos (redução de 12 para 6 usuários).
 
