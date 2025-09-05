@@ -127,9 +127,3 @@
 - **Treinamento:** Necessário para adaptação às ferramentas Google
 
 ---
-
-## CRONOGRAMA ESTIMADO
-- **Fases 1-2:** 1-2 semanas
-- **Fases 3-4:** 2-3 semanas  
-- **Fases 5-6:** 1-2 semanas
-- **Total:** 4-7 semanas (dependendo da complexidade dos dados)
