@@ -14,8 +14,8 @@
 #### 1. Contratar todas as ferramentas necessárias
 **Hostinger - Business Starter Email:**
 - Plano: Business Starter
-- Custo: R$ 3,49/mês (promocional 12 meses)
-- Renovação: R$ 7,99/mês a cada 4 anos
+- 6 usuários: R$ 3,49 cada = R$ 20,94/mês (promocional 12 meses)
+- Renovação: R$ 7,99 cada = R$ 47,94/mês a cada 4 anos
 - Funcionalidade: Catch-all para camozziconsultoria.com.br
 
 **Google Workspace Business Standard:**
@@ -110,6 +110,11 @@
 - Verificar funcionamento completo
 - Validar todos os dados migrados
 - Confirmar que todos os usuários estão operacionais
+
+#### 15. Cancelar ferramentas antigas
+- Cancelar licenças Microsoft 365 (12 usuários + Ana Luiza)
+- Cancelar assinatura ChatGPT
+- **Economia total**: R$ 595,68/mês → R$ 511,74/mês = **R$ 83,94/mês**
 
 ---
 
