@@ -9,12 +9,20 @@
 
 ## ETAPAS DA MIGRAÇÃO
 
-### FASE 1: PREPARAÇÃO E FERRAMENTAS
+### FASE 1: CONTRATAÇÕES NECESSÁRIAS
 
-#### 1. Contratar/avaliar ferramentas necessárias para migração
-- Ferramentas de backup (Teams, SharePoint, Exchange)
-- Ferramentas de migração de dados
-- Softwares auxiliares para conversão de arquivos
+#### 1. Contratar todas as ferramentas necessárias
+**Hostinger - Business Starter Email:**
+- Plano: Business Starter
+- Custo: R$ 3,49/mês (promocional 12 meses)
+- Renovação: R$ 7,99/mês a cada 4 anos
+- Funcionalidade: Catch-all para camozziconsultoria.com.br
+
+**Google Workspace Business Standard:**
+- 6 usuários: R$ 81,80 cada = R$ 490,80/mês
+- 2TB de armazenamento por usuário
+- IA Gemini avançada incluída
+- Meet com gravação, assinatura eletrônica
 
 #### 2. Fazer backup completo do Teams (conversas e arquivos)
 - Exportar todas as conversas dos canais
@@ -33,14 +41,9 @@
 
 ---
 
-### FASE 2: CONTRATAÇÃO E CONFIGURAÇÃO GOOGLE
+### FASE 2: CONFIGURAÇÃO GOOGLE WORKSPACE
 
-#### 5. Contratar plano Google Workspace adequado
-- Avaliar quantidade de usuários
-- Escolher plano com storage suficiente
-- Considerar funcionalidades necessárias
-
-#### 6. Configurar domínio cedblindagemdigital.com.br no Google Workspace
+#### 5. Configurar domínio cedblindagemdigital.com.br no Google Workspace
 - Verificação de domínio
 - Configuração DNS
 - Ativação dos serviços
@@ -49,17 +52,17 @@
 
 ### FASE 3: ESTRUTURAÇÃO NO GOOGLE
 
-#### 7. Recriar estrutura organizacional no Google Drive (equivalente ao SharePoint)
+#### 6. Recriar estrutura organizacional no Google Drive (equivalente ao SharePoint)
 - Reproduzir organização de pastas
 - Configurar unidades compartilhadas
 - Estabelecer hierarquia de permissões
 
-#### 8. Migrar emails do Microsoft 365 para Gmail
+#### 7. Migrar emails do Microsoft 365 para Gmail
 - Usar ferramenta de migração do Google
 - Preservar histórico e organização
 - Migrar contatos e calendários
 
-#### 9. Migrar arquivos do SharePoint para Google Drive
+#### 8. Migrar arquivos do SharePoint para Google Drive
 - Transferir documentos mantendo estrutura
 - Verificar tipos de arquivo suportados
 - Ajustar permissões no novo ambiente
@@ -68,13 +71,13 @@
 
 ### FASE 4: CONFIGURAÇÃO COMPLETA
 
-#### 10. Configurar todas as ferramentas Google (Calendar, Meet, etc.)
+#### 9. Configurar todas as ferramentas Google (Calendar, Meet, etc.)
 - Google Calendar (substituir Outlook Calendar)
 - Google Meet (substituir Teams para reuniões)
 - Google Chat (comunicação interna)
 - Outras ferramentas necessárias
 
-#### 11. Configurar políticas de segurança no Google Workspace
+#### 10. Configurar políticas de segurança no Google Workspace
 - Políticas de senha
 - Autenticação de dois fatores
 - Controles de compartilhamento
@@ -84,12 +87,12 @@
 
 ### FASE 5: MIGRAÇÃO DE USUÁRIOS
 
-#### 12. Migrar usuários e configurar permissões
+#### 11. Migrar usuários e configurar permissões
 - Criar contas de usuário
 - Configurar grupos e permissões
 - Treinar equipe nas novas ferramentas
 
-#### 13. Período de testes paralelos antes da migração final
+#### 12. Período de testes paralelos antes da migração final
 - Testar funcionalidades críticas
 - Validar acessos e permissões
 - Período de adaptação da equipe
@@ -98,12 +101,12 @@
 
 ### FASE 6: FINALIZAÇÃO
 
-#### 14. Configurar servidor de email ponte (camozziconsultoria.com.br)
-- Contratar catch-all na Hostinger
+#### 13. Configurar servidor de email ponte (camozziconsultoria.com.br) na Hostinger
+- Ativar catch-all na Hostinger (já contratado na etapa 1)
 - Configurar redirecionamentos automáticos
 - Manter domínio antigo como ponte de emails
 
-#### 15. Testes finais e validação da migração
+#### 14. Testes finais e validação da migração
 - Verificar funcionamento completo
 - Validar todos os dados migrados
 - Confirmar que todos os usuários estão operacionais
