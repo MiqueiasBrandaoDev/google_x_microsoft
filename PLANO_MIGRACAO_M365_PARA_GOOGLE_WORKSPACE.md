@@ -114,7 +114,6 @@
 #### 15. Cancelar ferramentas antigas
 - Cancelar licenças Microsoft 365 (12 usuários + Ana Luiza)
 - Cancelar assinatura ChatGPT
-- **Economia total**: R$ 595,68/mês → R$ 511,74/mês = **R$ 83,94/mês**
 
 ---
 
